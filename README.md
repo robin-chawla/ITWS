@@ -1,3 +1,2 @@
 # ITWS
-Repository for IT Workshop assignment on Numerical Algorithms
-GROUP 2 - [24,57,67,69,70]
+S.no. - 57 ; Name - Robin Chawla ; Repository for IT Workshop assignment on Graphing and Plotting in continuation with the numerical programming assignment.
